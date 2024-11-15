@@ -16,7 +16,7 @@ namespace WebAddress
         {
             Name = txtInput.Text;
             txtOutput.Text = "www." + Name + ".com";
-
+            // git hub test
 
 
         }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\C# work\\WebAddress\\",
+  "WorkspaceRootPath": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\WebAddress\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ED474D3-2E05-4088-8B45-10A601357E01}|WebAddress\\WebAddress.csproj|p:\\c# work\\webaddress\\webaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6ED474D3-2E05-4088-8B45-10A601357E01}|WebAddress\\WebAddress.csproj|c:\\users\\baa70\\onedrive\\documents\\github\\c_sharpwork\\webaddress\\webaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ED474D3-2E05-4088-8B45-10A601357E01}|WebAddress\\WebAddress.csproj|solutionrelative:webaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ED474D3-2E05-4088-8B45-10A601357E01}|WebAddress\\WebAddress.csproj|p:\\c# work\\webaddress\\webaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6ED474D3-2E05-4088-8B45-10A601357E01}|WebAddress\\WebAddress.csproj|C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\WebAddress\\webaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6ED474D3-2E05-4088-8B45-10A601357E01}|WebAddress\\WebAddress.csproj|solutionrelative:webaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,37 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "P:\\C# work\\WebAddress\\WebAddress\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\WebAddress\\WebAddress\\Form1.cs",
               "RelativeDocumentMoniker": "WebAddress\\Form1.cs",
-              "ToolTip": "P:\\C# work\\WebAddress\\WebAddress\\Form1.cs",
+              "ToolTip": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\WebAddress\\WebAddress\\Form1.cs",
               "RelativeToolTip": "WebAddress\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T14:33:45.751Z",
               "EditorCaption": ""
@@ -57,13 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "P:\\C# work\\WebAddress\\WebAddress\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\WebAddress\\WebAddress\\Form1.cs",
               "RelativeDocumentMoniker": "WebAddress\\Form1.cs",
               "ToolTip": "P:\\C# work\\WebAddress\\WebAddress\\Form1.cs [Design]",
-              "RelativeToolTip": "WebAddress\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T14:26:51.515Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-15T14:26:51.515Z"
             }
           ]
         }
