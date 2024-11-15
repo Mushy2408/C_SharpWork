@@ -1,4 +1,5 @@
 using System.Diagnostics.SymbolStore;
+using System.Text.RegularExpressions;
 
 namespace WebAddress
 {
@@ -21,31 +22,34 @@ namespace WebAddress
             //string Name = txtInput.Text;
 
             //txtOutput.Text = "www." + Name + ".com";
-            // Get the business name from the input textbox
+
+
             string businessName = txtInput.Text;
 
-            // Initialize the web address with "www."
-            string webAddress = "www.";
-
-            // Loop through each character in the business name
-            foreach (char ch in businessName)
+            // Check for special characters (non-letter characters)
+            if (!IsInputValid(businessName))
             {
-                // Only add the character if it is not a space
-                if (ch != ' ')
-                {
-                    webAddress += ch;
-                }
+                txtOutput.Text = "Please type in letters.";
+                return;
             }
 
-            // Add ".com" to the end of the web address
-            webAddress += ".com";
+            // Remove spaces from the business name
+            string sanitizedBusinessName = businessName.Replace(" ", "");
 
-            // Set the output textbox with the generated web address
+            // Create the web address
+            string webAddress = "www." + sanitizedBusinessName + ".com";
+
+            // Set the output in the output textbox
             txtOutput.Text = webAddress;
-
-
-
-
         }
+
+        private bool IsInputValid(string input)
+        {
+            // Check if the input contains only letters and spaces
+            return Regex.IsMatch(input, @"^[a-zA-Z\s]+$");
+        }
+        
+          
+                
     }
 }

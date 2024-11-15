@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAddress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9086c2660cfd2a197570cfcbabbc0b3642148916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3614a825fddc52fafa1e0c90e41201531579aad3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAddress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAddress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
