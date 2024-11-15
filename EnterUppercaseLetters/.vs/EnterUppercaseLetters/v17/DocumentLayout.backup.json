@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\C# work\\EnterUppercaseLetters\\",
+  "WorkspaceRootPath": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22764F13-E740-48C7-892D-3E28D3D02B37}|EnterUppercaseLetters\\EnterUppercaseLetters.csproj|p:\\c# work\\enteruppercaseletters\\enteruppercaseletters\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22764F13-E740-48C7-892D-3E28D3D02B37}|EnterUppercaseLetters\\EnterUppercaseLetters.csproj|p:\\c# work\\c_sharpwork\\enteruppercaseletters\\enteruppercaseletters\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22764F13-E740-48C7-892D-3E28D3D02B37}|EnterUppercaseLetters\\EnterUppercaseLetters.csproj|solutionrelative:enteruppercaseletters\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22764F13-E740-48C7-892D-3E28D3D02B37}|EnterUppercaseLetters\\EnterUppercaseLetters.csproj|P:\\C# work\\EnterUppercaseLetters\\enteruppercaseletters\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{22764F13-E740-48C7-892D-3E28D3D02B37}|EnterUppercaseLetters\\EnterUppercaseLetters.csproj|P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\enteruppercaseletters\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22764F13-E740-48C7-892D-3E28D3D02B37}|EnterUppercaseLetters\\EnterUppercaseLetters.csproj|solutionrelative:enteruppercaseletters\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -31,19 +27,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs",
-              "RelativeDocumentMoniker": "EnterUppercaseLetters\\Form1.cs",
-              "ToolTip": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs",
-              "RelativeToolTip": "EnterUppercaseLetters\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:39:37.592Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -55,15 +38,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs",
+              "RelativeDocumentMoniker": "EnterUppercaseLetters\\Form1.cs",
+              "ToolTip": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs",
+              "RelativeToolTip": "EnterUppercaseLetters\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:39:37.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs",
+              "DocumentMoniker": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs",
               "RelativeDocumentMoniker": "EnterUppercaseLetters\\Form1.cs",
               "ToolTip": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs [Design]",
-              "RelativeToolTip": "EnterUppercaseLetters\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\EnterUppercaseLetters\\EnterUppercaseLetters\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:34:37.007Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T14:34:37.007Z"
             }
           ]
         }

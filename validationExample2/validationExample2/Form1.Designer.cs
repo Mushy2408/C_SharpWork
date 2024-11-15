@@ -39,59 +39,66 @@
             // 
             // txtDouble
             // 
-            txtDouble.Location = new Point(91, 35);
+            txtDouble.Location = new Point(130, 58);
+            txtDouble.Margin = new Padding(4, 5, 4, 5);
             txtDouble.Name = "txtDouble";
-            txtDouble.Size = new Size(100, 23);
+            txtDouble.Size = new Size(141, 31);
             txtDouble.TabIndex = 0;
             // 
             // txtInt
             // 
-            txtInt.Location = new Point(91, 76);
+            txtInt.Location = new Point(130, 127);
+            txtInt.Margin = new Padding(4, 5, 4, 5);
             txtInt.Name = "txtInt";
-            txtInt.Size = new Size(100, 23);
+            txtInt.Size = new Size(141, 31);
             txtInt.TabIndex = 1;
             // 
             // txtOutput
             // 
-            txtOutput.Location = new Point(91, 126);
+            txtOutput.Location = new Point(130, 210);
+            txtOutput.Margin = new Padding(4, 5, 4, 5);
             txtOutput.Name = "txtOutput";
             txtOutput.ReadOnly = true;
-            txtOutput.Size = new Size(286, 23);
+            txtOutput.Size = new Size(407, 31);
             txtOutput.TabIndex = 2;
             txtOutput.Visible = false;
             // 
             // lblDouble
             // 
             lblDouble.AutoSize = true;
-            lblDouble.Location = new Point(26, 43);
+            lblDouble.Location = new Point(13, 58);
+            lblDouble.Margin = new Padding(4, 0, 4, 0);
             lblDouble.Name = "lblDouble";
-            lblDouble.Size = new Size(59, 15);
+            lblDouble.Size = new Size(101, 25);
             lblDouble.TabIndex = 3;
-            lblDouble.Text = "Doule -->";
+            lblDouble.Text = "Double -->";
             // 
             // lblInt
             // 
             lblInt.AutoSize = true;
-            lblInt.Location = new Point(20, 79);
+            lblInt.Location = new Point(29, 132);
+            lblInt.Margin = new Padding(4, 0, 4, 0);
             lblInt.Name = "lblInt";
-            lblInt.Size = new Size(65, 15);
+            lblInt.Size = new Size(99, 25);
             lblInt.TabIndex = 4;
             lblInt.Text = "Integer -->";
             // 
             // lblOutput
             // 
             lblOutput.AutoSize = true;
-            lblOutput.Location = new Point(19, 129);
+            lblOutput.Location = new Point(27, 215);
+            lblOutput.Margin = new Padding(4, 0, 4, 0);
             lblOutput.Name = "lblOutput";
-            lblOutput.Size = new Size(66, 15);
+            lblOutput.Size = new Size(100, 25);
             lblOutput.TabIndex = 5;
             lblOutput.Text = "Output -->";
             // 
             // btnConvert
             // 
-            btnConvert.Location = new Point(90, 188);
+            btnConvert.Location = new Point(129, 313);
+            btnConvert.Margin = new Padding(4, 5, 4, 5);
             btnConvert.Name = "btnConvert";
-            btnConvert.Size = new Size(75, 23);
+            btnConvert.Size = new Size(107, 38);
             btnConvert.TabIndex = 6;
             btnConvert.Text = "convert";
             btnConvert.UseVisualStyleBackColor = true;
@@ -99,9 +106,9 @@
             // 
             // frmMain
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(459, 248);
+            ClientSize = new Size(656, 413);
             Controls.Add(btnConvert);
             Controls.Add(lblOutput);
             Controls.Add(lblInt);
@@ -109,6 +116,7 @@
             Controls.Add(txtOutput);
             Controls.Add(txtInt);
             Controls.Add(txtDouble);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "frmMain";
             Text = "Validation Example, Part 2";
             ResumeLayout(false);

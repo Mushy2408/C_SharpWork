@@ -16,12 +16,15 @@ namespace WebAddress
 
         private void Btn1_Click(object sender, EventArgs e)
         {
-           //Symbols = "!","@","#","$","%","^","&","*","(",")","_","+","-","=","`","~","{","[","}","]","","|",";",":","'","",",","<",".","/", "?"
+            //Symbols = "!","@","#","$","%","^","&","*","(",")","_","+","-","=","`","~","{","[","}","]","","|",";",":","'","",",","<",".","/", "?"
+
+            //txtOutput.Text = "www." + Name + ".com";
+     
             Name = txtInput.Text;
-            txtOutput.Text = "www." + Name + ".com";
-            
+            if (Name == txtInput.Text.Substring())
+            {
 
-
+            }
         }
     }
 }

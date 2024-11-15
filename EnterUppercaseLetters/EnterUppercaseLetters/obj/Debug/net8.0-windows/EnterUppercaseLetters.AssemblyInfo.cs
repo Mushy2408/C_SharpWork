@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnterUppercaseLetters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+040ed97971bc0a99434ac91561f85354b138b578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0724bbab29a8af47226886ac1f57bd858deca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnterUppercaseLetters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnterUppercaseLetters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
