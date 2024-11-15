@@ -16,9 +16,8 @@ namespace WebAddress
 
         private void Btn1_Click(object sender, EventArgs e)
         {
-           
+           //Symbols = "!","@","#","$","%","^","&","*","(",")","_","+","-","=","`","~","{","[","}","]","","|",";",":","'","",",","<",".","/", "?"
             Name = txtInput.Text;
-            Remove()
             txtOutput.Text = "www." + Name + ".com";
             
 

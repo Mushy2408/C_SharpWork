@@ -31,3 +31,20 @@ P:\C# work\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress
 P:\C# work\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.sourcelink.json
 P:\C# work\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.genruntimeconfig.cache
 P:\C# work\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\ref\WebAddress.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.exe
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.deps.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.runtimeconfig.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.pdb
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.Form1.resources
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.csproj.GenerateResource.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.AssemblyInfoInputs.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.AssemblyInfo.cs
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.csproj.CoreCompileInputs.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.sourcelink.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\refint\WebAddress.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.pdb
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.genruntimeconfig.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\WebAddress\WebAddress\obj\Debug\net8.0-windows\ref\WebAddress.dll

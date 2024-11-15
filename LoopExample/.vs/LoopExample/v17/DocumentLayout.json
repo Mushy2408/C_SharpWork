@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ps26aba\\source\\repos\\LoopExample\\",
+  "WorkspaceRootPath": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\LoopExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A14527A-BE49-4AA2-8B7B-EBDD816399F0}|LoopExample\\LoopExample.csproj|c:\\users\\ps26aba\\source\\repos\\loopexample\\loopexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A14527A-BE49-4AA2-8B7B-EBDD816399F0}|LoopExample\\LoopExample.csproj|c:\\users\\baa70\\onedrive\\documents\\github\\c_sharpwork\\loopexample\\loopexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A14527A-BE49-4AA2-8B7B-EBDD816399F0}|LoopExample\\LoopExample.csproj|solutionrelative:loopexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A14527A-BE49-4AA2-8B7B-EBDD816399F0}|LoopExample\\LoopExample.csproj|c:\\users\\ps26aba\\source\\repos\\loopexample\\loopexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A14527A-BE49-4AA2-8B7B-EBDD816399F0}|LoopExample\\LoopExample.csproj|C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\LoopExample\\loopexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A14527A-BE49-4AA2-8B7B-EBDD816399F0}|LoopExample\\LoopExample.csproj|solutionrelative:loopexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,25 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ps26aba\\source\\repos\\LoopExample\\LoopExample\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\LoopExample\\LoopExample\\Form1.cs",
               "RelativeDocumentMoniker": "LoopExample\\Form1.cs",
-              "ToolTip": "C:\\Users\\ps26aba\\source\\repos\\LoopExample\\LoopExample\\Form1.cs",
+              "ToolTip": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\LoopExample\\LoopExample\\Form1.cs",
               "RelativeToolTip": "LoopExample\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T14:50:38.292Z",
               "EditorCaption": ""
@@ -45,21 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ps26aba\\source\\repos\\LoopExample\\LoopExample\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\LoopExample\\LoopExample\\Form1.cs",
               "RelativeDocumentMoniker": "LoopExample\\Form1.cs",
               "ToolTip": "C:\\Users\\ps26aba\\source\\repos\\LoopExample\\LoopExample\\Form1.cs [Design]",
-              "RelativeToolTip": "LoopExample\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ps26aba\\source\\repos\\LoopExample\\LoopExample\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T14:55:01.355Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-11-11T14:55:01.355Z"
             }
           ]
         }

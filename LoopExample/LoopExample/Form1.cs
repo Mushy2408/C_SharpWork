@@ -28,7 +28,7 @@ namespace LoopExample
             //parse user input as an integer
             //if it cannot be parsed, output an error message
             bool validinput = int.TryParse(txtInput.Text, out count);
-
+          
             if (validinput)
             {
                 //clear txtOutput - THESES TWO LINES DO THE EXACT SAME THING!!!!@@@@@@@@
