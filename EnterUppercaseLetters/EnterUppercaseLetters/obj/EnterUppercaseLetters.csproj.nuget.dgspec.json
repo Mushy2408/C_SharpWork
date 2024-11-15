@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj": {}
+    "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj": {}
   },
   "projects": {
-    "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj": {
+    "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj",
+        "projectUniqueName": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj",
         "projectName": "EnterUppercaseLetters",
-        "projectPath": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj",
+        "projectPath": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\EnterUppercaseLetters.csproj",
         "packagesPath": "C:\\Users\\ps26aba\\.nuget\\packages\\",
-        "outputPath": "P:\\C# work\\EnterUppercaseLetters\\EnterUppercaseLetters\\obj\\",
+        "outputPath": "P:\\C# work\\C_SharpWork\\EnterUppercaseLetters\\EnterUppercaseLetters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ps26aba\\AppData\\Roaming\\NuGet\\NuGet.Config",

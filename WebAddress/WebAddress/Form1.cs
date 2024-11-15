@@ -1,3 +1,5 @@
+using System.Diagnostics.SymbolStore;
+
 namespace WebAddress
 {
     public partial class Form1 : Form
@@ -14,9 +16,11 @@ namespace WebAddress
 
         private void Btn1_Click(object sender, EventArgs e)
         {
+           
             Name = txtInput.Text;
+            Remove()
             txtOutput.Text = "www." + Name + ".com";
-            // git hub test
+            
 
 
         }
