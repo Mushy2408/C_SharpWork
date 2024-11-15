@@ -1,0 +1,34 @@
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.Form1.resources
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.csproj.GenerateResource.cache
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.AssemblyInfoInputs.cache
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.AssemblyInfo.cs
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.csproj.CoreCompileInputs.cache
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.exe
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.deps.json
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.runtimeconfig.json
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.dll
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.pdb
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.Properties.Resources.resources
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.dll
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\refint\Ch2FormatDecimals.dll
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.pdb
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.genruntimeconfig.cache
+C:\Users\ps26aba\source\repos\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\ref\Ch2FormatDecimals.dll
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.exe
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.deps.json
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.runtimeconfig.json
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.dll
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.pdb
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.Form1.resources
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.Properties.Resources.resources
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.csproj.GenerateResource.cache
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.AssemblyInfoInputs.cache
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.AssemblyInfo.cs
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.csproj.CoreCompileInputs.cache
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.dll
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\refint\Ch2FormatDecimals.dll
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.pdb
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.genruntimeconfig.cache
+P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\ref\Ch2FormatDecimals.dll

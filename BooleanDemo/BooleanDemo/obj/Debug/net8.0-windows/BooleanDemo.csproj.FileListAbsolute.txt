@@ -1,0 +1,16 @@
+P:\C# work\BooleanDemo\BooleanDemo\bin\Debug\net8.0-windows\BooleanDemo.exe
+P:\C# work\BooleanDemo\BooleanDemo\bin\Debug\net8.0-windows\BooleanDemo.deps.json
+P:\C# work\BooleanDemo\BooleanDemo\bin\Debug\net8.0-windows\BooleanDemo.runtimeconfig.json
+P:\C# work\BooleanDemo\BooleanDemo\bin\Debug\net8.0-windows\BooleanDemo.dll
+P:\C# work\BooleanDemo\BooleanDemo\bin\Debug\net8.0-windows\BooleanDemo.pdb
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.Form1.resources
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.csproj.GenerateResource.cache
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.AssemblyInfoInputs.cache
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.AssemblyInfo.cs
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.csproj.CoreCompileInputs.cache
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.dll
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\refint\BooleanDemo.dll
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.pdb
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\BooleanDemo.genruntimeconfig.cache
+P:\C# work\BooleanDemo\BooleanDemo\obj\Debug\net8.0-windows\ref\BooleanDemo.dll

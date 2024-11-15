@@ -1,0 +1,32 @@
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.exe
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.deps.json
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.runtimeconfig.json
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.dll
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.pdb
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.Form1.resources
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.csproj.GenerateResource.cache
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.AssemblyInfoInputs.cache
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.AssemblyInfo.cs
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.csproj.CoreCompileInputs.cache
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.dll
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\refint\GreenvilleMotto2.dll
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.pdb
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.genruntimeconfig.cache
+C:\Users\ps26aba\source\repos\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\ref\GreenvilleMotto2.dll
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.exe
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.deps.json
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.runtimeconfig.json
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.dll
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\bin\Debug\net8.0-windows\GreenvilleMotto2.pdb
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.Form1.resources
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.csproj.GenerateResource.cache
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.GeneratedMSBuildEditorConfig.editorconfig
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.AssemblyInfoInputs.cache
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.AssemblyInfo.cs
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.csproj.CoreCompileInputs.cache
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.dll
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\refint\GreenvilleMotto2.dll
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.pdb
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\GreenvilleMotto2.genruntimeconfig.cache
+\\ecc-data01\students$\2026\PS26ABa\C# work\GreenvilleMotto2\GreenvilleMotto2\obj\Debug\net8.0-windows\ref\GreenvilleMotto2.dll

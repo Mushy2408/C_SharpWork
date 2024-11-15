@@ -1,0 +1,16 @@
+P:\C# work\OutputExample\OutputExample\bin\Debug\net8.0-windows\OutputExample.exe
+P:\C# work\OutputExample\OutputExample\bin\Debug\net8.0-windows\OutputExample.deps.json
+P:\C# work\OutputExample\OutputExample\bin\Debug\net8.0-windows\OutputExample.runtimeconfig.json
+P:\C# work\OutputExample\OutputExample\bin\Debug\net8.0-windows\OutputExample.dll
+P:\C# work\OutputExample\OutputExample\bin\Debug\net8.0-windows\OutputExample.pdb
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.Form1.resources
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.csproj.GenerateResource.cache
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.AssemblyInfoInputs.cache
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.AssemblyInfo.cs
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.csproj.CoreCompileInputs.cache
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.dll
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\refint\OutputExample.dll
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.pdb
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\OutputExample.genruntimeconfig.cache
+P:\C# work\OutputExample\OutputExample\obj\Debug\net8.0-windows\ref\OutputExample.dll

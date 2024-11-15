@@ -1,0 +1,16 @@
+P:\C# work\validationExample2\validationExample2\bin\Debug\net8.0-windows\validationExample2.exe
+P:\C# work\validationExample2\validationExample2\bin\Debug\net8.0-windows\validationExample2.deps.json
+P:\C# work\validationExample2\validationExample2\bin\Debug\net8.0-windows\validationExample2.runtimeconfig.json
+P:\C# work\validationExample2\validationExample2\bin\Debug\net8.0-windows\validationExample2.dll
+P:\C# work\validationExample2\validationExample2\bin\Debug\net8.0-windows\validationExample2.pdb
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.frmMain.resources
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.csproj.GenerateResource.cache
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.AssemblyInfoInputs.cache
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.AssemblyInfo.cs
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.csproj.CoreCompileInputs.cache
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.dll
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\refint\validationExample2.dll
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.pdb
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\validationExample2.genruntimeconfig.cache
+P:\C# work\validationExample2\validationExample2\obj\Debug\net8.0-windows\ref\validationExample2.dll

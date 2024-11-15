@@ -1,0 +1,16 @@
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.Form1.resources
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.csproj.GenerateResource.cache
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.AssemblyInfoInputs.cache
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.AssemblyInfo.cs
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.csproj.CoreCompileInputs.cache
+P:\C# work\TestProjectOne\TestProjectOne\bin\Debug\net8.0-windows\TestProjectOne.exe
+P:\C# work\TestProjectOne\TestProjectOne\bin\Debug\net8.0-windows\TestProjectOne.deps.json
+P:\C# work\TestProjectOne\TestProjectOne\bin\Debug\net8.0-windows\TestProjectOne.runtimeconfig.json
+P:\C# work\TestProjectOne\TestProjectOne\bin\Debug\net8.0-windows\TestProjectOne.dll
+P:\C# work\TestProjectOne\TestProjectOne\bin\Debug\net8.0-windows\TestProjectOne.pdb
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.dll
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\refint\TestProjectOne.dll
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.pdb
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\TestProjectOne.genruntimeconfig.cache
+P:\C# work\TestProjectOne\TestProjectOne\obj\Debug\net8.0-windows\ref\TestProjectOne.dll

@@ -1,0 +1,16 @@
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.exe
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.deps.json
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.runtimeconfig.json
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.dll
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.pdb
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.FrnMain.resources
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.csproj.GenerateResource.cache
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.AssemblyInfoInputs.cache
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.AssemblyInfo.cs
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.csproj.CoreCompileInputs.cache
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.dll
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\refint\EnterUppercaseLetters.dll
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.pdb
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.genruntimeconfig.cache
+P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\ref\EnterUppercaseLetters.dll

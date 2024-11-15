@@ -1,0 +1,16 @@
+P:\C# work\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.exe
+P:\C# work\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.deps.json
+P:\C# work\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.runtimeconfig.json
+P:\C# work\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.dll
+P:\C# work\WebAddress\WebAddress\bin\Debug\net8.0-windows\WebAddress.pdb
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.Form1.resources
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.csproj.GenerateResource.cache
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.AssemblyInfoInputs.cache
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.AssemblyInfo.cs
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.csproj.CoreCompileInputs.cache
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.dll
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\refint\WebAddress.dll
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.pdb
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\WebAddress.genruntimeconfig.cache
+P:\C# work\WebAddress\WebAddress\obj\Debug\net8.0-windows\ref\WebAddress.dll

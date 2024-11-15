@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\C# work\\OutputExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|p:\\c# work\\outputexample\\outputexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|solutionrelative:outputexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|P:\\C# work\\OutputExample\\outputexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|solutionrelative:outputexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|p:\\c# work\\outputexample\\outputexample\\outputexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|solutionrelative:outputexample\\outputexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|p:\\c# work\\outputexample\\outputexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC22505-1DC9-4640-A0A8-7ACEDD565CA4}|OutputExample\\OutputExample.csproj|solutionrelative:outputexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "P:\\C# work\\OutputExample\\OutputExample\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OutputExample\\Form1.Designer.cs",
+              "ToolTip": "P:\\C# work\\OutputExample\\OutputExample\\Form1.Designer.cs",
+              "RelativeToolTip": "OutputExample\\Form1.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:10:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputExample",
+              "DocumentMoniker": "P:\\C# work\\OutputExample\\OutputExample\\OutputExample.csproj",
+              "RelativeDocumentMoniker": "OutputExample\\OutputExample.csproj",
+              "ToolTip": "P:\\C# work\\OutputExample\\OutputExample\\OutputExample.csproj",
+              "RelativeToolTip": "OutputExample\\OutputExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T13:05:05.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "P:\\C# work\\OutputExample\\OutputExample\\Form1.cs",
+              "RelativeDocumentMoniker": "OutputExample\\Form1.cs",
+              "ToolTip": "P:\\C# work\\OutputExample\\OutputExample\\Form1.cs",
+              "RelativeToolTip": "OutputExample\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:13:03.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "P:\\C# work\\OutputExample\\OutputExample\\Form1.cs",
+              "RelativeDocumentMoniker": "OutputExample\\Form1.cs",
+              "ToolTip": "P:\\C# work\\OutputExample\\OutputExample\\Form1.cs [Design]",
+              "RelativeToolTip": "OutputExample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:10:18.325Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
