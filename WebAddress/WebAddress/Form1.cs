@@ -19,7 +19,7 @@ namespace WebAddress
             
             //Symbols = "!","@","#","$","%","^","&","*","(",")","_","+","-","=","`","~","{","[","}","]","","|",";",":","'","",",","<",".","/", "?"
             Name = txtInput.Text;
-           
+           uhhhhhhh
             txtOutput.Text = "www." + Name + ".com";
         }
     }
