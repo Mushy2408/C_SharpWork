@@ -36,47 +36,54 @@
             // 
             // Btn1
             // 
-            Btn1.Location = new Point(68, 55);
+            Btn1.Location = new Point(97, 92);
+            Btn1.Margin = new Padding(4, 5, 4, 5);
             Btn1.Name = "Btn1";
-            Btn1.Size = new Size(75, 23);
-            Btn1.TabIndex = 0;
+            Btn1.Size = new Size(107, 38);
+            Btn1.TabIndex = 6;
             Btn1.Text = "Click Here";
             Btn1.UseVisualStyleBackColor = true;
             Btn1.Click += Btn1_Click;
+            Btn1.Enter += Btn1_Click;
             // 
             // txtInput
             // 
-            txtInput.Location = new Point(160, 56);
+            txtInput.Location = new Point(229, 93);
+            txtInput.Margin = new Padding(4, 5, 4, 5);
             txtInput.Name = "txtInput";
-            txtInput.Size = new Size(100, 23);
+            txtInput.Size = new Size(141, 31);
             txtInput.TabIndex = 1;
             // 
             // txtOutput
             // 
-            txtOutput.Location = new Point(58, 85);
+            txtOutput.Location = new Point(83, 142);
+            txtOutput.Margin = new Padding(4, 5, 4, 5);
             txtOutput.Multiline = true;
             txtOutput.Name = "txtOutput";
-            txtOutput.Size = new Size(217, 151);
+            txtOutput.ReadOnly = true;
+            txtOutput.Size = new Size(308, 249);
             txtOutput.TabIndex = 2;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(73, 27);
+            label1.Location = new Point(104, 45);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(187, 15);
+            label1.Size = new Size(283, 25);
             label1.TabIndex = 3;
             label1.Text = "Please type in your business name";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(336, 278);
+            ClientSize = new Size(480, 463);
             Controls.Add(label1);
             Controls.Add(Btn1);
             Controls.Add(txtOutput);
             Controls.Add(txtInput);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);

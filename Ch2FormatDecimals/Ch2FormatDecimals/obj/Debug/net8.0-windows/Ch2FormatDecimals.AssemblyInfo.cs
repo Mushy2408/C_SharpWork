@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ch2FormatDecimals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac14e0d8b4a4bdedd84c4aabcc07ffbe9b18b8bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ch2FormatDecimals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ch2FormatDecimals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

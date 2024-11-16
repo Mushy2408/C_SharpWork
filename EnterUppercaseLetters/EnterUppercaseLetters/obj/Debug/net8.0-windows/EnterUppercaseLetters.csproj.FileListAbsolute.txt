@@ -14,3 +14,20 @@ P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\
 P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.pdb
 P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.genruntimeconfig.cache
 P:\C# work\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\ref\EnterUppercaseLetters.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.exe
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.deps.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.runtimeconfig.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\bin\Debug\net8.0-windows\EnterUppercaseLetters.pdb
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.FrnMain.resources
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.csproj.GenerateResource.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.AssemblyInfoInputs.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.AssemblyInfo.cs
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.csproj.CoreCompileInputs.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.sourcelink.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\refint\EnterUppercaseLetters.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.pdb
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\EnterUppercaseLetters.genruntimeconfig.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\EnterUppercaseLetters\EnterUppercaseLetters\obj\Debug\net8.0-windows\ref\EnterUppercaseLetters.dll

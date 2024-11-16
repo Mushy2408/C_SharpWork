@@ -36,16 +36,18 @@
             // 
             // txtInput
             // 
-            txtInput.Location = new Point(168, 93);
+            txtInput.Location = new Point(240, 155);
+            txtInput.Margin = new Padding(4, 5, 4, 5);
             txtInput.Name = "txtInput";
-            txtInput.Size = new Size(100, 23);
+            txtInput.Size = new Size(141, 31);
             txtInput.TabIndex = 0;
             // 
             // btn1
             // 
-            btn1.Location = new Point(87, 92);
+            btn1.Location = new Point(124, 153);
+            btn1.Margin = new Padding(4, 5, 4, 5);
             btn1.Name = "btn1";
-            btn1.Size = new Size(75, 23);
+            btn1.Size = new Size(107, 38);
             btn1.TabIndex = 1;
             btn1.Text = "button1";
             btn1.UseVisualStyleBackColor = true;
@@ -54,29 +56,32 @@
             // lbl1
             // 
             lbl1.AutoSize = true;
-            lbl1.Location = new Point(69, 62);
+            lbl1.Location = new Point(99, 103);
+            lbl1.Margin = new Padding(4, 0, 4, 0);
             lbl1.Name = "lbl1";
-            lbl1.Size = new Size(220, 15);
+            lbl1.Size = new Size(332, 25);
             lbl1.TabIndex = 2;
             lbl1.Text = "Can you please type in a lowercase letter\r\n";
             // 
             // txtOutput
             // 
-            txtOutput.Location = new Point(30, 137);
+            txtOutput.Location = new Point(43, 228);
+            txtOutput.Margin = new Padding(4, 5, 4, 5);
             txtOutput.Multiline = true;
             txtOutput.Name = "txtOutput";
-            txtOutput.Size = new Size(290, 159);
+            txtOutput.Size = new Size(413, 262);
             txtOutput.TabIndex = 3;
             // 
             // FrnMain
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(394, 452);
+            ClientSize = new Size(563, 550);
             Controls.Add(txtOutput);
             Controls.Add(lbl1);
             Controls.Add(btn1);
             Controls.Add(txtInput);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "FrnMain";
             Text = "Form1";
             ResumeLayout(false);

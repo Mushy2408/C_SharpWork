@@ -32,3 +32,21 @@ P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\refint\C
 P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.pdb
 P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.genruntimeconfig.cache
 P:\C# work\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\ref\Ch2FormatDecimals.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.exe
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.deps.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.runtimeconfig.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\bin\Debug\net8.0-windows\Ch2FormatDecimals.pdb
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.Form1.resources
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.Properties.Resources.resources
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.csproj.GenerateResource.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.AssemblyInfoInputs.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.AssemblyInfo.cs
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.csproj.CoreCompileInputs.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.sourcelink.json
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\refint\Ch2FormatDecimals.dll
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.pdb
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\Ch2FormatDecimals.genruntimeconfig.cache
+C:\Users\baa70\OneDrive\Documents\GitHub\C_SharpWork\Ch2FormatDecimals\Ch2FormatDecimals\obj\Debug\net8.0-windows\ref\Ch2FormatDecimals.dll

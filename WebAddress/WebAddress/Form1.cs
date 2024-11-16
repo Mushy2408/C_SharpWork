@@ -33,19 +33,15 @@ namespace WebAddress
                 return;
             }
 
-            // Remove spaces from the business name
             string sanitizedBusinessName = businessName.Replace(" ", "");
 
-            // Create the web address
             string webAddress = "www." + sanitizedBusinessName + ".com";
 
-            // Set the output in the output textbox
             txtOutput.Text = webAddress;
         }
 
         private bool IsInputValid(string input)
         {
-            // Check if the input contains only letters and spaces
             return Regex.IsMatch(input, @"^[a-zA-Z\s]+$");
         }
         
