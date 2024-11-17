@@ -1,15 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\",
+  "WorkspaceRootPath": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\GreenvilleMotto2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|\\\\ecc-data01\\students$\\2026\\ps26aba\\c# work\\greenvillemotto2\\greenvillemotto2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|c:\\users\\baa70\\onedrive\\documents\\github\\c_sharpwork\\greenvillemotto2\\greenvillemotto2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|solutionrelative:greenvillemotto2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|\\\\ecc-data01\\students$\\2026\\ps26aba\\c# work\\greenvillemotto2\\greenvillemotto2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|\\\\ecc-data01\\students$\\2026\\ps26aba\\c# work\\greenvillemotto2\\greenvillemotto2\\greenvillemotto2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|c:\\users\\baa70\\onedrive\\documents\\github\\c_sharpwork\\greenvillemotto2\\greenvillemotto2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{573399D7-6326-4EE7-BAB0-D08E330F59A1}|GreenvilleMotto2\\GreenvilleMotto2.csproj|solutionrelative:greenvillemotto2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,40 +21,33 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GreenvilleMotto2",
-              "DocumentMoniker": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\GreenvilleMotto2\\GreenvilleMotto2.csproj",
-              "RelativeDocumentMoniker": "GreenvilleMotto2\\GreenvilleMotto2.csproj",
-              "ToolTip": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\GreenvilleMotto2\\GreenvilleMotto2.csproj",
-              "RelativeToolTip": "GreenvilleMotto2\\GreenvilleMotto2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T13:09:42.491Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs",
               "RelativeDocumentMoniker": "GreenvilleMotto2\\Form1.cs",
-              "ToolTip": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs",
-              "RelativeToolTip": "GreenvilleMotto2\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs [Design]",
+              "RelativeToolTip": "GreenvilleMotto2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:57:33.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T20:47:17.814Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs",
               "RelativeDocumentMoniker": "GreenvilleMotto2\\Form1.cs",
-              "ToolTip": "\\\\ecc-data01\\students$\\2026\\PS26ABa\\C# work\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs [Design]",
-              "RelativeToolTip": "GreenvilleMotto2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\GreenvilleMotto2\\GreenvilleMotto2\\Form1.cs",
+              "RelativeToolTip": "GreenvilleMotto2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:45:52.679Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-17T20:47:12.991Z",
+              "EditorCaption": ""
             }
           ]
         }

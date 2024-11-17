@@ -28,7 +28,7 @@ namespace WebAddress
 
 
 
-            /*if (!IsInputValid(businessName))
+            if (!IsInputValid(businessName))
             {
                 txtOutput.Text = "Please only type in letters or numbers.";
                 return;
@@ -41,12 +41,12 @@ namespace WebAddress
             string webAddress = "www." + sanitizedBusinessName + ".com";
 
             txtOutput.Text = webAddress;
-      */}
-       /* private bool IsInputValid(string input)
-        {
+        }
+         private bool IsInputValid(string input)
+         {
             return
             Regex.IsMatch(input, @"^[a-zA-Z0-9\s]+$");
-        }*/
+         }
         
           
                 
