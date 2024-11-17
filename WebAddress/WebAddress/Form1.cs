@@ -14,23 +14,26 @@ namespace WebAddress
         {
 
         }
-
+        
         private void Btn1_Click(object sender, EventArgs e)
         {
+            string businessName = txtInput.Text;
 
+            
             //Symbols = "!","@","#","$","%","^","&","*","(",")","_","+","-","=","`","~","{","[","}","]","","|",";",":","'","",",","<",".","/", "?"
             //string Name = txtInput.Text;
 
             //txtOutput.Text = "www." + Name + ".com";
+            
 
 
-            string businessName = txtInput.Text;
 
-            // Check for special characters (non-letter characters)
-            if (!IsInputValid(businessName))
+            /*if (!IsInputValid(businessName))
             {
-                txtOutput.Text = "Please type in letters.";
+                txtOutput.Text = "Please only type in letters or numbers.";
                 return;
+
+
             }
 
             string sanitizedBusinessName = businessName.Replace(" ", "");
@@ -38,12 +41,12 @@ namespace WebAddress
             string webAddress = "www." + sanitizedBusinessName + ".com";
 
             txtOutput.Text = webAddress;
-        }
-
-        private bool IsInputValid(string input)
+      */}
+       /* private bool IsInputValid(string input)
         {
-            return Regex.IsMatch(input, @"^[a-zA-Z\s]+$");
-        }
+            return
+            Regex.IsMatch(input, @"^[a-zA-Z0-9\s]+$");
+        }*/
         
           
                 

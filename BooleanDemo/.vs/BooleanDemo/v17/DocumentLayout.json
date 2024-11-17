@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "BooleanDemo\\Form1.cs",
               "ToolTip": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\BooleanDemo\\BooleanDemo\\Form1.cs",
               "RelativeToolTip": "BooleanDemo\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T13:58:20.131Z",
               "EditorCaption": ""
@@ -42,8 +46,7 @@
               "ToolTip": "C:\\Users\\baa70\\OneDrive\\Documents\\GitHub\\C_SharpWork\\BooleanDemo\\BooleanDemo\\Form1.cs [Design]",
               "RelativeToolTip": "BooleanDemo\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:57:42.686Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T13:57:42.686Z"
             }
           ]
         }
